@@ -8,10 +8,10 @@ body {
 	width: 100%;
 }
 #header a.logo {
-	width: 100%;
+	width: 50%;
 }
 #header a.logo img {
-	width: 100%;
+	width: 50%;
 }
 #mobile-navigation {
 	background: url(../images/mobile-menu.png) no-repeat 0 0;
