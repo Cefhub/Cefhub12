@@ -18,7 +18,7 @@
 
 body {
 	background: #fff;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -70,7 +70,7 @@ p a:hover {
 #header ul li a {
 	color: #252525;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Futura Black", Gadget, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -89,7 +89,7 @@ p a:hover {
 #body h1 {
 	color: #fff;
 	display: inline;
-	font-family: poller_oneregular;
+	font-family: Futura;
 	font-size: 35px;
 	font-weight: normal;
 	margin: 0;
@@ -117,7 +117,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Futura Black", Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -132,7 +132,7 @@ p a:hover {
 	background: #252525;
 	color: #fff;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Futura Black", Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -180,7 +180,7 @@ p a:hover {
 }
 #body div ul li div h3 {
 	color: #252525;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Futura Black", Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0;
@@ -234,7 +234,7 @@ p a:hover {
 	background: #fff;
 	color: #000;
 	display: inline-block;
-	font-family: poller_oneregular;
+	font-family: Futura;
 	font-size: 20px;
 	font-weight: normal;
 	margin: 0 0 18px;
@@ -279,7 +279,7 @@ p a:hover {
 #body > ul li a {
 	color: #000;
 	display: block;
-	font-family: poller_oneregular;
+	font-family: Futura;
 	font-size: 20px;
 	font-weight: normal;
 	margin: 0;
@@ -312,7 +312,7 @@ p a:hover {
 #body form input, #body form textarea {
 	border: 2px solid #252525;
 	color: #252525;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	margin: 0 0 37px;
@@ -329,7 +329,7 @@ p a:hover {
 #body form #send {
 	background: #252525;
 	color: #fff;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Helvetica Black", Gadget, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	display: inline-block;
