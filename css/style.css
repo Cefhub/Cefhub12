@@ -87,7 +87,7 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-	color: #fff;
+	color: #252525;
 	display: inline;
 	font-family: Futura;
 	font-size: 35px;
@@ -97,7 +97,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #252525;
+	background: #;
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
