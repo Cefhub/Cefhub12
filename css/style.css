@@ -97,7 +97,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #;
+	background: #fff;
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -117,7 +117,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: "Futura Black", Gadget, sans-serif;
+	font-family: "Futura Black", Futura, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -132,7 +132,7 @@ p a:hover {
 	background: #252525;
 	color: #fff;
 	display: inline-block;
-	font-family: "Futura Black", Gadget, sans-serif;
+	font-family: "Futura Black", Futura, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
