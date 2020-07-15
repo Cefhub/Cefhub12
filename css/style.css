@@ -26,6 +26,12 @@ body {
 	min-width: 960px;
 	padding: 0;
 }
+
+.container {
+	padding: 30px;
+
+}
+
 p {
 	color: #252525;
 	line-height: 24px;
