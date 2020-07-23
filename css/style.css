@@ -66,27 +66,48 @@ p a:hover {
 }
 #header ul {
 	margin: 0;
-	padding: 56px 0 0;
+	padding: 20px 0 0;
 }
 #header ul li {
-	display: inline;
-	list-style: none;
-	margin: 0;
-	padding: 0 19px;
+	display: inline-block;
+	list-style-type: none;
+	padding: 2px 25px;
+	position: relative;
 }
+
+#header ul li a:hover, #header ul liselected a{
+      color: #0ba39c;
+}
+ ul .sub-menu {
+	position: absolute;
+	background-color: #5E5D5D;
+	list-style-type: none;
+	width: 125px;
+	padding-left: 0px;
+	margin-left: -25px;
+	padding-top: 5px;
+	opacity: 0;
+}
+
+ul.sub-menu li{
+	padding-left: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+
+#header li:hover .sub-menu{
+	opacity: 1;
+}
+
 #header ul li a {
 	color: #252525;
 	display: inline-block;
 	font-family: "Futura Black", Gadget, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
-	margin: 0;
-	padding: 0 0 3px;
 	text-decoration: none;
 	text-transform: uppercase;
-}
-#header ul li a:hover, #header ul li.selected a {
-	color: #0ba39c;
 }
 #body {
 	margin: 0;
