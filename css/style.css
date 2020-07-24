@@ -48,7 +48,7 @@ p a:hover {
 }
 #header {
 	margin: 0 auto;
-	padding: 44px 0 50px;
+	padding: 44px 0 80px;
 	text-align: center;
 	width: 960px;
 }
@@ -65,8 +65,9 @@ p a:hover {
 	padding: 0;
 }
 #header ul {
-	margin: 0;
-	padding: 20px 0 0;
+	font-size:14px;
+	font-family: helvetica;
+	padding: 21px;
 }
 #header ul li {
 	display: inline-block;
@@ -75,7 +76,7 @@ p a:hover {
 	position: relative;
 }
 
-#header ul li a:hover, #header ul liselected a{
+#header ul li a:hover, #header ul li liselected a{
       color: #0ba39c;
 }
  ul .sub-menu {
