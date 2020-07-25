@@ -82,6 +82,7 @@ p a:hover {
  ul .sub-menu {
 	position: absolute;
 	background-color: #5E5D5D;
+	color: #fff;
 	list-style-type: none;
 	width: 125px;
 	padding-left: 0px;
