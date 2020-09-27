@@ -372,6 +372,21 @@ ul.sub-menu li{
 	color: #252525;
 	cursor: pointer;
 }
+
+.previous{
+  background-color:#00b2ff;
+  color: white;
+  padding: 25px;
+  float: left;
+}
+
+.never{
+  background-color: #00b2ff;
+  color: white;
+  padding: 25px;
+  float: right;
+}
+
 #footer {
 	background: #252525;
 	margin: 0;
